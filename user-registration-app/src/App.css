@@ -1,0 +1,185 @@
+.status-lookup {
+  max-width: 400px;
+  margin: 40px auto;
+  background: #fff;
+  padding: 32px;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+}
+.status-lookup h2 {
+  text-align: center;
+  color: #2d3a4b;
+}
+.status-lookup label {
+  display: block;
+  margin-bottom: 12px;
+  color: #2d3a4b;
+}
+.status-lookup input {
+  width: 100%;
+  padding: 8px;
+  margin-top: 4px;
+  margin-bottom: 16px;
+  border: 1px solid #cfd8dc;
+  border-radius: 4px;
+}
+.status-lookup button {
+  width: 100%;
+  padding: 10px;
+  background: #1976d2;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  font-size: 16px;
+  cursor: pointer;
+}
+.status-lookup button:hover {
+  background: #1565c0;
+}
+.admin-login {
+  max-width: 400px;
+  margin: 40px auto;
+  background: #fff;
+  padding: 32px;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+}
+.admin-login h2 {
+  text-align: center;
+  color: #2d3a4b;
+}
+.admin-login label {
+  display: block;
+  margin-bottom: 12px;
+  color: #2d3a4b;
+}
+.admin-login input {
+  width: 100%;
+  padding: 8px;
+  margin-top: 4px;
+  margin-bottom: 16px;
+  border: 1px solid #cfd8dc;
+  border-radius: 4px;
+}
+.admin-login button {
+  width: 100%;
+  padding: 10px;
+  background: #1976d2;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  font-size: 16px;
+  cursor: pointer;
+}
+.admin-login button:hover {
+  background: #1565c0;
+}
+.admin-dashboard button {
+  padding: 6px 12px;
+  background: #1976d2;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  font-size: 14px;
+  cursor: pointer;
+}
+.admin-dashboard button:hover {
+  background: #1565c0;
+}
+.admin-dashboard {
+  max-width: 800px;
+  margin: 40px auto;
+  background: #fff;
+  padding: 32px;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+}
+
+.admin-dashboard h2 {
+  text-align: center;
+  color: #2d3a4b;
+}
+
+.admin-dashboard table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 24px;
+}
+.admin-dashboard th, .admin-dashboard td {
+  border: 1px solid #cfd8dc;
+  padding: 8px;
+  text-align: left;
+}
+.admin-dashboard th {
+  background: #f4f6fb;
+}
+.admin-dashboard .error {
+  color: #d32f2f;
+  margin-bottom: 12px;
+  text-align: center;
+}
+.admin-dashboard .success {
+  color: #388e3c;
+  margin-bottom: 12px;
+  text-align: center;
+}
+body {
+  font-family: Arial, sans-serif;
+  background: #f4f6fb;
+}
+
+.App {
+  max-width: 400px;
+  margin: 40px auto;
+  background: #fff;
+  padding: 32px;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+}
+
+h2 {
+  text-align: center;
+  color: #2d3a4b;
+}
+
+.registration-form label {
+  display: block;
+  margin-bottom: 12px;
+  color: #2d3a4b;
+}
+
+.registration-form input {
+  width: 100%;
+  padding: 8px;
+  margin-top: 4px;
+  margin-bottom: 16px;
+  border: 1px solid #cfd8dc;
+  border-radius: 4px;
+}
+
+button {
+  width: 100%;
+  padding: 10px;
+  background: #1976d2;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+button:hover {
+  background: #1565c0;
+}
+
+.pending {
+  text-align: center;
+  color: #ff9800;
+  font-weight: bold;
+}
+
+.error {
+  color: #d32f2f;
+  margin-top: 8px;
+  text-align: center;
+}
